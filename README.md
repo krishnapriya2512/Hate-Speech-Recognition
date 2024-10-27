@@ -14,7 +14,7 @@ Hate Speech Recognition using Jupyter Notebook, Flask and SQLite3
 
 **Note:** The file folder sequence for Flask process should be as below
 main folder -> HatespeechDetection
-              -> pkl_objects
+              -> pkl_objects '\n'
                  -> classifier.pkl
                  -> stopwords.pkl
                  -> vect_bog.pkl
