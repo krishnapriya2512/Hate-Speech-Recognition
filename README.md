@@ -12,7 +12,12 @@ Hate Speech Recognition using Jupyter Notebook, Flask and SQLite3
 6. **Setting up SQLite Connection**: Setting up an SQL connectio to store the records and use them to simultaneously train the model.
 
 
-**Note:** The file folder sequence for Flask process should be as below
+**Note:** I used Visual studio code for running the Flask program. 
+The file folder sequence for Flask process should be as below
+**create a main folder HatespeechDetection -** pkl_objects and vectorizer.py will be created automatically when the serialiser code is runned. We need to create two folders - static and templates. A python files (used Visual studio) main.py. 
+- In templates folder- -formhelpers, results,reviewform and thanks should be placed.
+- in static folder - style.css should be placed.
 
-  ![moviedir](https://github.com/user-attachments/assets/4cae2ec6-eb0e-45c5-ba17-c9ae09568407)
+** Can make changes accordingly**
+
 
