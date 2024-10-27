@@ -12,4 +12,22 @@ Hate Speech Recognition using Jupyter Notebook, Flask and SQLite3
 6. **Setting up SQLite Connection**: Setting up an SQL connectio to store the records and use them to simultaneously train the model.
 
 
-**Note:** 
+**Note:** The file folder sequence for Flask process should be as below
+main folder -> HatespeechDetection
+              -> pkl_objects
+                 -> classifier.pkl
+                 -> stopwords.pkl
+                 -> vect_bog.pkl
+              -> static
+                 -> style.css 
+              -> templates
+                 -> _formhelpers
+                 -> results.html
+                 -> reviewform.html
+                 -> thanks.html
+              -> main.py
+              -> vectorizer.py
+              -> speech.sqlite
+
+  ![moviedir](https://github.com/user-attachments/assets/4cae2ec6-eb0e-45c5-ba17-c9ae09568407)
+
