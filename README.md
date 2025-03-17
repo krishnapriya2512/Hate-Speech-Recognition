@@ -4,7 +4,7 @@ Hate Speech Recognition using Jupyter Notebook, Flask and SQLite3
 **Aim:** Deploy a NLP program on a (simulated) Web page.
 
 ### Steps: 
-1. **Intialization:** Importing train dataset and doing intial check on the data set using basic commands.
+1. **Intialization:** Importing train dataset and doing Exploratory Data Analysis on the dataset using basic commands.
 2. **Data cleaning:** Building a preprocessor to remove user handles, punctuations, greek symbols and stopwords. Also for better predictability using tokenization and lemmtizer for cleaning. 
 3. **Model Training:** Splitting of dataset into train test split and using logistic Regression, Random Classifier and SDGClassifier for model prediction.
 4. **Prediction:** Predicting the model trained on a test dataset.
