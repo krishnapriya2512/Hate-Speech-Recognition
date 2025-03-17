@@ -18,6 +18,6 @@ The file folder sequence for Flask process should be as below
 - In templates folder- -formhelpers, results,reviewform and thanks should be placed.
 - in static folder - style.css should be placed.
 
-** Can make changes accordingly**
+** Feel free to make changes accordingly **
 
 
